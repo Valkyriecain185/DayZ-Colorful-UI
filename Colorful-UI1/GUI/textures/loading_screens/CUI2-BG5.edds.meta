@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{C80A7FEC436BD923}Loading One.edds"
+ Author "desktop-bo5jrg3"
+ ChangeDate 74740059
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "Loading One.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

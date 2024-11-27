@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{AC11184233F4B927}Welcome to Agony.edds"
+ Author "desktop-bo5jrg3"
+ ChangeDate -1065062053
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "Welcome to Agony.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

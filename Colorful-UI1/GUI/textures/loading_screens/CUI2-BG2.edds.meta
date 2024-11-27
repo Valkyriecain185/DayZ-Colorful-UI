@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{F1C2A9612B6661B2}Loading two.edds"
+ Author "desktop-bo5jrg3"
+ ChangeDate -1099665061
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "Loading two.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
