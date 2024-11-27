@@ -1,10 +1,10 @@
 MetaFileClass {
- Name "{AC11184233F4B927}Welcome to Agony.edds"
+ Name "{C3BE288CA3843879}Welcome to Agony (1).edds"
  Author "desktop-bo5jrg3"
- ChangeDate -1065062053
+ ChangeDate -1546931845
  Configurations {
   PNGResourceClass PC {
-   SourceFile "Welcome to Agony.png"
+   SourceFile "Welcome to Agony (1).png"
   }
   PNGResourceClass XBOX_ONE : PC {
   }

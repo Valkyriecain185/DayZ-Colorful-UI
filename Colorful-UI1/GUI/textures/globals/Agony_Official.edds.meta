@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{E626954B68B66428}Agony_Official.edds"
+ Author "desktop-bo5jrg3"
+ ChangeDate 1571533179
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "Agony_Official.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

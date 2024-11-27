@@ -24,7 +24,7 @@ FrameWidgetClass main_menu_root {
    scaled 1
    fixaspect outside
    image0 ""
-   imageTexture "{105076873F0677B3}Colorful-UI/GUI/textures/loading_screens/CUI2-BG4.edds"
+   imageTexture "Colorful-UI/GUI/textures/globals/mainmenu.edds"
    mode opaque
    "src alpha" 1
    "clamp mode" clamp
@@ -121,8 +121,7 @@ FrameWidgetClass main_menu_root {
      hexactsize 1
      vexactsize 1
      fixaspect outside
-     image0 "set:cui image:Logo"
-     imageTexture "{7CD806F5385DC838}Colorful-UI/GUI/imagesets/CUI-Imageset.edds"
+     imageTexture "Colorful-UI/GUI/textures/globals/Agony_Official.edds"
      mode blend
      "src alpha" 1
      "clamp mode" clamp

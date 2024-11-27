@@ -1,10 +1,10 @@
 MetaFileClass {
- Name "{456D81012D0E53F1}Colorful-UI/GUI/textures/globals/DeathScreen.edds"
- Author "unicron"
- ChangeDate -273289062
+ Name "{9E03AF50FF1AFA44}You Suck Death Screen.edds"
+ Author "desktop-bo5jrg3"
+ ChangeDate 365146491
  Configurations {
   PNGResourceClass PC {
-   SourceFile "DeathScreen.png"
+   SourceFile "You Suck Death Screen.png"
   }
   PNGResourceClass XBOX_ONE : PC {
   }
